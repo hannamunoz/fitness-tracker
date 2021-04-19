@@ -1,6 +1,8 @@
-![D&DTracker](./public/images/homescreen.png)
+![Fitness-Tracker Homepage](./public/images/screenshot1.png)
 
-# Dungeons and Dragons Campaign Tracker
+![Fitness-Tracker Dashboard](./public/images/screenshot2.png)
+
+# Fitness-Tracker
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 ---------------
