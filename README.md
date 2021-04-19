@@ -16,7 +16,7 @@
 ---------------
 
 ## *Description*
-This application is designed to help Dungeon & Dragons players easily keep track of players in the game without using the normal pen and paper. If players opt to play online, our application allows the user to sign in and see their campaigns and then edit their character. Our application follows MVC, uses express and node to create RESTful API's and MySQL and Sequelize ORM for databases.
+This application is designed to help a user view, create and track their workouts. With the application, the user is able to log multiple exercises in a workout on a given day. The exercises can be tracked by name, type, weight, sets, reps and duration. If the exercise is cardio then the distanced can be tracked. When looking at the application dashboard, the user is able to see their workouts in one place and track their progress.
 
 ---------------
 
@@ -31,10 +31,7 @@ Please use a new branch before contributing
 ---------------
 
 ## *Author*
-- Taylor Gonzalez
 - Hanna Munoz
-- Tristan Laroche
-- Brendan Francis
 
 ---------------
 
